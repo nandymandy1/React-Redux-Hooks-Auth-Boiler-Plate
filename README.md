@@ -6,16 +6,16 @@ It is Simple REACT-REDUX-AUTHENTICATION-APP with boiler plate which works with t
 
 Packages Used
 
-> Bootstrap
-> Sweetalert2
-> Jquery
-> Axios
-> React Router Dom
-> React Redux
-> Redux Thunk
-> Redux Logger
-> Redux Devtools Extension
-> Node Sass
+- Bootstrap
+- Sweetalert2
+- Jquery
+- Axios
+- React Router Dom
+- React Redux
+- Redux Thunk
+- Redux Logger
+- Redux Devtools Extension
+- Node Sass
 
 Steps to USE.
 
