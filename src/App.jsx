@@ -18,7 +18,6 @@ import Dashboard from './Components/Protected/Dashboard/Dashboard';
 import { loadUser } from './store/Auth/Action';
 import store from './store';
 
-
 const App = () => {
   useEffect(() => {
     store.dispatch(loadUser());
