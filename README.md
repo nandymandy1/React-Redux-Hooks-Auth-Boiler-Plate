@@ -4,6 +4,19 @@
 
 It is Simple REACT-REDUX-AUTHENTICATION-APP with boiler plate which works with the REST-JWT-TOKEN based Authentication.
 
+Packages Used
+
+> Bootstrap
+> Sweetalert2
+> Jquery
+> Axios
+> React Router Dom
+> React Redux
+> Redux Thunk
+> Redux Logger
+> Redux Devtools Extension
+> Node Sass
+
 Steps to USE.
 
 ```sh
